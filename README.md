@@ -18,7 +18,7 @@ This Dataset contain 4 columns :-<br />
 
 Steps :-<br />
 1. Run Preparing_dataset.ipynb<br />
-2. Run Pre-processing_dataset.ipynb<br /><br />
+2. Run Pre-processing_dataset.ipynb<br />
 3. Run Training_using_bidirectional_LSTM.ipynb<br /><br />
 
 Methedology :-<br />
