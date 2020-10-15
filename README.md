@@ -59,6 +59,6 @@ Finally, we will train our model.
 
 The results are shown below :-
 
-Achieved an accuracy of 72%^
+Achieved an accuracy of 72%
 <img src="https://github.com/gearhead0909/Sentiment-Analysis/blob/master/Accuracy.png" alt="alt text" width="500" height="300"><br /><br />
 <img src="https://github.com/gearhead0909/Sentiment-Analysis/blob/master/Loss.png" alt="alt text" width="500" height="300"><br /><br />
