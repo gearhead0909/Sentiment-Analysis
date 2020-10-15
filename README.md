@@ -27,12 +27,12 @@ The dataset is prepared and extracted only Original Tweets and Sentiments for an
 Then the text in the Original Tweets are pre-processes and cleaned.<br /><br />
 
 In pre-processing :-<br />
-a) All the letters are converted in Lower case letters.<br />
-b) Expanding of contractions has been done for our model to learn better from the data.<br />
+1. All the letters are converted in Lower case letters.<br />
+2. Expanding of contractions has been done for our model to learn better from the data.<br />
    For expanding of contactions Google News Vector dictionary has been used.<br />
    It can be downloaded from https://code.google.com/archive/p/word2vec/<br />
-c) Removed special characters and numbers using String library.<br />
-d) Removed extra spaces from the text.<br /><br />
+3. Removed special characters and numbers using String library.<br />
+4. Removed extra spaces from the text.<br /><br />
 
 After Pre-processing of the text, the data is splitted into Data(Tweets) and labels(Sentiments).<br /><br />
 
