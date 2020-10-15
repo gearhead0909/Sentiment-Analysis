@@ -48,3 +48,17 @@ Then, to feed the Sentiments to the model. We One-Hot Encode the Sentiments usin
 Then we made an Embedding layer using pre-trained GLoVe library.
 Sentences are needed to pass from this layer before entering any other layer.
 
+Then we will build out Sequential model based on Bidirectional LSTM using Keras framework.
+
+Then will be compile our built model.
+Loss      = "Categorical Cross Entropy"
+Optimizer = "Adam"
+
+Finally, we will train our model.
+
+
+The results are shown below :-
+
+Achieved an accuracy of 72%^
+<img src="https://github.com/gearhead0909/Sentiment-Analysis/blob/master/Accuracy.png" alt="alt text" width="500" height="300"><br /><br />
+<img src="https://github.com/gearhead0909/Sentiment-Analysis/blob/master/Loss.png" alt="alt text" width="500" height="300"><br /><br />
