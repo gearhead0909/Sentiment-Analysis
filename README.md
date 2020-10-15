@@ -29,8 +29,8 @@ Then the text in the Original Tweets are pre-processes and cleaned.<br /><br />
 In pre-processing :-<br />
 a) All the letters are converted in Lower case letters.<br />
 b) Expanding of contractions has been done for our model to learn better from the data.<br />
-For expanding of contactions Google News Vector dictionary has been used.<br />
-It can be downloaded from https://code.google.com/archive/p/word2vec/<br />
+   For expanding of contactions Google News Vector dictionary has been used.<br />
+   It can be downloaded from https://code.google.com/archive/p/word2vec/<br />
 c) Removed special characters and numbers using String library.<br />
 d) Removed extra spaces from the text.<br /><br />
 
